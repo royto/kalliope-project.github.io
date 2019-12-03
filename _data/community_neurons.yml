@@ -148,6 +148,12 @@
     - demo_url: https://www.youtube.com/embed/Zdn7CUQlV1E?list=PLDc8cUmeFkpKdErR5iYTkGJ1-4A05zHIi
       synapse: fr_synapse.yml
 
+- neuron_name: Netatmo
+  description: This neuron allows to control your netatmo devices.
+  doc_url: https://github.com/royto/kalliope_neuron_netatmo
+  logo: netatmo.png
+  demos:
+
 - neuron_name: Onkyo
   description: Control your Onkyo via eISCP
   doc_url: https://github.com/corus87/onkyo-neuron
